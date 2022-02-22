@@ -21,7 +21,7 @@ What concerns my personality, I’m a goal-oriented. It assists me to complete a
 If I have doubts or don’t know something, I do my utmost to study it as soon as possible.
 As a matter of fact, I’m intended successfully implement my skills at the Front-End Developer position at your company.
 Moreover, I guess the more difficult tasks we meet, the more exciting they are.
-Please be advised to view some of my projects.
+Please be advised to view some of my projects .
 
 My GITHUB is nsamoilova.
 
@@ -57,5 +57,4 @@ alert( result );
 
 ## English
 + English - A2 - Elementary (in progress)
-
 
