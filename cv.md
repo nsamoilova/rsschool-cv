@@ -9,7 +9,7 @@
 + Phone: +375 44 748-34-96
 + Email: nsamoilov.an@gmail.com
 + GitHub: nsamoilova
-+ Telegram: @medAnastasia
++ Telegram: @nssAnastasia
 + Discord: nsamoilova
 + [LinkedIn](https://www.linkedin.com/in/anastasia-kulakova-6249b5225/)
 
